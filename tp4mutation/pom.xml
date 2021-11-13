@@ -11,6 +11,8 @@
 		<maven.compiler.source>11</maven.compiler.source>
 		<maven.compiler.target>11</maven.compiler.target>
 		<junit-platform.version>5.7.0</junit-platform.version>
+		<sonar.organization>texao</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
 	<dependencies>
 		<!-- https://mvnrepository.com/artifact/org.apache.commons/commons-lang3 -->
